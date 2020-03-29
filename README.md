@@ -15,4 +15,5 @@ Lista de ferramentas para infosec criadas no tempo livre da quarentena.
 |[GoogleAccountEnum](https://github.com/vitor-fernandes/GoogleAccountEnum)|Enumeração de Contas do Google|[@rapt00r](https://github.com/vitor-fernandes)|Python|Em desenvolvimento|
 |[nmap_project](https://github.com/igorfavin/nmap_project)|Descobrir portas vulneraveis e traz os resultados baseados no Exploitdb|[@igorfavin](https://github.com/igorfavin)|Javascript(nodejs)|Em desenvolvimento|
 |[faDom](https://github.com/whoisgvb/fadom)|Enumerar subdominios com wordlists|[@whoisgvb](https://github.com/whoisgvb)|Python|Em desenvolvimento|
+|[LabWebSec](https://github.com/NozakiLabs/lab-web-sec)|Laboratório para estudos de vulnerabilidades em aplicações web|[@NozakiLabs](https://github.com/NozakiLabs)|PHP|Em desenvolvimento|
 |  |  |  |  |  |
