@@ -1,5 +1,11 @@
 # Quarentena sec tools
 
+Todo mundo ficando louco em casa sem saber o que fazer, então vamos aproveitar este tempo para completar um desafio!
+A ideia é criar uma ferramenta para automatizar algum processo relacionado a infosec, por exemplo, enumeração de sistemas, bruteforce em logins, scan de vulnerabilidades e por ai vai.
+
+## Colaborar
+Abra um PR para acrescentar a sua ferramenta em nossa lista.
+
 Lista de ferramentas para infosec criadas no tempo livre da quarentena.
 
 |Nome|Descrição|Autor|Lingaguem|Estado|
